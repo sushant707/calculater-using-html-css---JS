@@ -4,6 +4,8 @@ html,body{
     height: 100%;
     width: 100%;
     font-family: 'Roboto Slab', Arial, Helvetica, sans-serif;
+    background-color: rgb(93, 126, 176);
+
 }
 
 .button{
